@@ -172,3 +172,5 @@ This repo benefits from [VGGT](https://github.com/facebookresearch/vggt), [VGGT-
 ## License
 See the [LICENSE](./LICENSE.txt) file for details about the license under which this code is made available.
 
+## 个人运行代码
+(vggt_env) tjut_shianzheng@user-NF5468M5:~/VGGT-X$ python demo_colmap.py     --scene_dir /data/sazdata/VGGT-X/kitchen     --post_fix _vggt_x     --save_depth     --use_ga     --chunk_size 256     --shared_camera^C
